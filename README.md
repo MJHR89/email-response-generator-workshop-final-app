@@ -7,7 +7,9 @@ This is a project used for demonstration purposes for the Building modular Slack
 ### Download the Slack CLI
 Install the Slack CLI - [Instructions](https://api.slack.com/automation/quickstart)
   Paste this command into your Mac terminal or Windows PowerShell to install the Slack CLI:
+
     Mac: `curl -fsSL https://downloads.slack-edge.com/slack-cli/install.sh | bash`
+
     Windows: `irm https://downloads.slack-edge.com/slack-cli/install-windows.ps1 | iex`
 
     **Windows users!**
@@ -28,7 +30,7 @@ The CLI is optimized to work with this editor, so we highly recommend using it (
 Free sandboxes to test your app available by signing up to the developer program. Plus so much more support and developer tools! Grab yours [here](https://api.slack.com/developer-program)!
 
 ### Join the workshop's channel
-Search for #tdx24-ai-app-workshop where we'll be sharing all the instructions and code snippets for the workshop. If you have any question please leave it in channel.
+If you joined the Slack workshops workspace, search for #tdx24-ai-app-workshop where we'll be sharing all the instructions and code snippets for the workshop. If you have any question please leave it in channel.
 
 ### Create a Personal Channel for Testing
 Once you’ve joined the workspace, create a channel named testing-yourName
