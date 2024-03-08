@@ -8,18 +8,18 @@ This is a project used for demonstration purposes for the Building modular Slack
 Install the Slack CLI - [Instructions](https://api.slack.com/automation/quickstart)
   Paste this command into your Mac terminal or Windows PowerShell to install the Slack CLI:
 
-    Mac: `curl -fsSL https://downloads.slack-edge.com/slack-cli/install.sh | bash`
+  Mac: `curl -fsSL https://downloads.slack-edge.com/slack-cli/install.sh | bash`
 
-    Windows: `irm https://downloads.slack-edge.com/slack-cli/install-windows.ps1 | iex`
+  Windows: `irm https://downloads.slack-edge.com/slack-cli/install-windows.ps1 | iex`
 
-    **Windows users!**
+  **Windows users!**
     You may need to upgrade Powershell to work with the Slack CLI:
       One liner to install Powershell 7:
       - Open Powershell
       - Paste the following to install Powershell 7:
         `iex "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI"`
 
-    **Learn more:**
+  **Learn more:**
       [Install Powershell on Windows (Microsoft)](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4&WT.mc_id=THOMASMAURER-blog-thmaure#install-powershell-using-winget-recommended)
       [How to install or update Powershell 6](https://www.thomasmaurer.ch/2019/03/how-to-install-and-update-powershell-6/)
 
